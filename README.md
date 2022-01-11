@@ -1,2 +1,2 @@
 # Convert-text-to-binary
-Convert text to binary code using Python
+This text to binary converter lets you convert any text to binary code
